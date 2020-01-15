@@ -11,10 +11,17 @@ public class Main {
 
         try {
             String welcome = "Welcome!";
+            //ArrayIndexOutOfBoundsException
             char [] chars =welcome.toCharArray();
-            char lastChar = chars[chars.length];
+            char lastChar = chars[chars.length -1];
             System.out.println("Last Char: " + lastChar);
-        } catch (Exception e) {
+            //add -1 above
+            //introduce a null pointer  exception
+            String nothing = null;
+            System.out.println(nothing.length());
+            
+
+        } catch (ArrayIndexOutOfBoundsException e) {
             e.printStackTrace();
             return;
         }

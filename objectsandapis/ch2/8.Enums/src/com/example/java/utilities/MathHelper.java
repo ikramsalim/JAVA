@@ -35,10 +35,22 @@ public class MathHelper {
 
 
         }
-        total +=value;
+        //total +=value; -> adds it twice
         return value;
     }
 
+    //NESTED TYPE -- WHEN YOU COMMENT IT OUT AND ADD IT IN MATHHELPER
+    // WHEN REFERENCING IN MAIN
+    //USE MathHelper.Operation.ADD  or MathHelper.Operation.SUBTRACT
+    //HIERARCHY  : MathHelper.Operation.ADD
+    // MathHelper is Parent Class,
+    // Operation is nested/membered class.
+    // ADD is the value
+    // CAN ADD STATIC VALUE(MathHelper.Operation) IN MAIN
+    public enum Operation {
+
+        ADD, SUBTRACT;
+    }
 
 
 

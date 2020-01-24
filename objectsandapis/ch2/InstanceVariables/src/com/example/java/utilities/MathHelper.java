@@ -7,6 +7,29 @@ public class MathHelper {
     private int total;
     //Click Code->Generate->Getter&Setter
 
+    //create constructor Code->Generate->Constr->SelectNone
+    //Constructors don't have a return type and has the same name as the class
+    //called after memory is allocated for the object
+    //Constructor -used to initialize object
+    //used tp SET INITIAL VALUES AS BELOW
+    //SET TOTAL TO 50;
+    //Java creates one for you if you don't create one and it's sort of hidden
+
+    public MathHelper() {
+        System.out.println("Constructor called");
+        //set initial state of the object
+        total = 50;
+    }
+    //MORE THAN 1 CONSTRUCTOR - OVERLOADING THE METHOD
+     //END UP ADDING 100 FROM CONSTRUCTOR BELOW AND 50 FROM ABOVE
+
+    public MathHelper(int total) {
+        //USE THE KEYWORD "this" as a name of method e.g this();
+        // to change constructors
+        this();
+        this.total += total;
+    }
+
     public int getTotal() {
         return total;
     }

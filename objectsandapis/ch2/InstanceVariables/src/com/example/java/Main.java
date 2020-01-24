@@ -18,7 +18,7 @@ public class Main {
         //instance variables
         //create an instance of the helper class for Math
         //ADDNUMBER IS AN INSTANCE METHOD FROM MATHHELPER
-        MathHelper helper = new MathHelper();
+        MathHelper helper = new MathHelper(100);
 
 
 

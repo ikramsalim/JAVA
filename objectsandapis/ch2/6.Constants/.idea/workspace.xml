@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="797752a0-a25e-470e-8967-648b3c8d9e79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CustomClasses/CustomClasses.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomClasses/src/com/example/java/InputHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/InstanceVariables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/out/production/InstanceVariables/com/example/java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/out/production/InstanceVariables/com/example/java/utilities/InputHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/out/production/InstanceVariables/com/example/java/utilities/MathHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/src/com/example/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/src/com/example/java/utilities/InputHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InstanceVariables/src/com/example/java/utilities/MathHelper.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WpdpgK6MQPSzKrzH3ddcWsmjdL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.java.Main" />
+      <module name="6.Constants" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="797752a0-a25e-470e-8967-648b3c8d9e79" name="Default Changelist" comment="" />
+      <created>1579850654872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579850654872</updated>
+    </task>
+    <servers />
+  </component>
+</project>
